@@ -18,6 +18,7 @@ public class StandAloneTest {
 
 	public static void main(String[] args)
 	{
+//Testing the new changes via git
 		
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
