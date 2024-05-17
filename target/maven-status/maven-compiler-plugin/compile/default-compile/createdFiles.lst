@@ -1,0 +1,8 @@
+Practice\pageobjects\CheckOutPage.class
+Practice\pageobjects\CartPage.class
+Practice\pageobjects\ConfirmationPage.class
+Practice\pageobjects\ProductCatalogue.class
+Practice\AbstractComponents\AbstractComponents.class
+Practice\pageobjects\LandingPage.class
+Practice\pageobjects\OrderPage.class
+Practice\resources\ExtentReporterNG.class
